@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39079284667969,
+          33.74974965607142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.83946228027344,
+          35.227672354935834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raleigh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63945007324219,
+          35.780221045347126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49517822265624,
+          29.425843050184294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05368041992188,
+          33.459515607176485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.86279296875,
+          40.78054143186031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8816375732422,
+          37.343686144505185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67454147338866,
+          45.521383078110446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nashville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77722930908202,
+          36.16199328548835
+        ]
+      }
+    }
+  ]
+}
